@@ -46,6 +46,9 @@ This ensures transparency, reduces bias, and builds trust in audit processes.
 
 ---
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-13 141035" src="https://github.com/user-attachments/assets/bdad93ab-4dbf-4185-841b-f67042885756" />
+
+
 ## 🔗 Deployed Smart Contract Link
 
 **Contract Address:**
@@ -87,7 +90,7 @@ This ensures transparency, reduces bias, and builds trust in audit processes.
 ## 👥 Team
 
 **Idea Name:** Audit DAO
-**Developed By:** Your Team Name
+**Developed By:** Pragga Mukherjee
 
 ---
 
