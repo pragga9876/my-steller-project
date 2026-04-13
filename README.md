@@ -3,10 +3,6 @@ A stellar smart contract project.
 
 # 🛡️ Audit DAO
 
-![Project Logo](logo.png)
-
----
-
 ## 📌 Project Name
 
 **Audit DAO**
